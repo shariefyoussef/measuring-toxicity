@@ -4,7 +4,7 @@
 <p />
 Clone the repostitory:
 <p>
-<code>git clone https://github.com/Kexuanliu/517-Final-Project</code>
+<code>git clone https://github.com/shariefyoussef/measuring-toxicity
 <p>
   Change to the notebooks direcotry where you will find three notebooks
 <p>
